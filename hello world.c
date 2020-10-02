@@ -1,5 +1,5 @@
 #include<stdio.h>
-void msin()
+void main()
 {
 printf("hello,ajay");
 }
